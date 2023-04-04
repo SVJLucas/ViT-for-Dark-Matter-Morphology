@@ -18,7 +18,7 @@ Next, we will take some features induced by physical knowledge of the problem. T
 
 # Model Architecture
 
-The final architecture is inspired by the [Vision Transformers for Small-Size Datasets](https://arxiv.org/abs/2112.13492), using innovations proposed in the Vision Transformers (ViT) for Small Datasets paper such as the Shifted Patch Tokenization (SPT) layer and Locally Multihead Attention (LMHA), which facilitate the learning of the ViT.
+The final architecture is inspired by the [Vision Transformers for Small-Size Datasets](https://arxiv.org/abs/2112.13492), using innovations proposed by this paper, such as the Shifted Patch Tokenization (SPT) layer and Locally Multihead Attention (LMHA), which facilitate the learning of the ViT. The final model was, then, totally implemented in Pytorch.
 
 ![Cropped, Rotated and Resized the Region of Interest (ROI) (2)](https://user-images.githubusercontent.com/60625769/229917865-feada814-8653-4423-88db-c9c596158e05.png)
 
