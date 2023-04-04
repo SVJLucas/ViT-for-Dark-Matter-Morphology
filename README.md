@@ -40,7 +40,7 @@ After the final training, the Transformer performed with a ROC-AUC of 0.956, a h
 
 ![download (21)](https://user-images.githubusercontent.com/60625769/229914249-8c5e47b8-4891-4d82-9ab3-0ef5a5587219.png)
 
-
+These results are impressive and show the power of combining classical features (inspired by physical meaning), Machine Learning and Metaheuristic Optimization.
 
 
 
