@@ -1,8 +1,8 @@
 # Vision Transformers (ViT) for Dark Matter Morphology
 
-![GSoC](https://github.com/SVJLucas/ViT-for-Dark-Matter-Morphology/assets/60625769/e31e9939-4a6e-4642-b65d-8e738fbed106)
+![Google_Summer_of_Code_logo_(2021) svg](https://github.com/SVJLucas/ViT-for-Dark-Matter-Morphology/assets/60625769/0731a299-0565-4fa6-8a6d-995b98437732)
 
-The project titled "Vision Transformers (ViT) for Dark Matter Morphology" was conceived and developed as part of the **Google Summer of Code** initiative. This globally recognized annual program, sponsored by Google, provides a paid opportunity for student developers to engage with and contribute to open-source software projects. The project was carried out in collaboration with Machine Learning for Sciences (ML4SCI), an organization dedicated to integrating machine learning methodologies into scientific research.
+The project titled "Vision Transformers (ViT) for Dark Matter Morphology" was conceived and developed as part of the **Google Summer of Code** initiative. This globally recognized annual program, sponsored by Google, provides a paid opportunity for student developers to engage with and contribute to open-source software projects. The project was carried out in collaboration with **Machine Learning for Sciences (ML4SCI)**, an organization dedicated to integrating machine learning methodologies into scientific research.
 
 Through Google Summer of Code, students are given the chance to work on significant projects during their summer break, all while gaining real-world, hands-on experience in software development and becoming familiar with the dynamics of open-source projects. Participating students are paired with a mentor from their project, fostering a learning environment guided by experienced developers.
 
