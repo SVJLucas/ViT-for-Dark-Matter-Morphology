@@ -1,3 +1,14 @@
+# Google Summer of Code
+
+![GSoC](https://github.com/SVJLucas/ViT-for-Dark-Matter-Morphology/assets/60625769/e31e9939-4a6e-4642-b65d-8e738fbed106)
+
+The project titled "Vision Transformers (ViT) for Dark Matter Morphology" was conceived and developed as part of the Google Summer of Code initiative. This globally recognized annual program, sponsored by Google, provides a paid opportunity for student developers to engage with and contribute to open-source software projects. The project was carried out in collaboration with Machine Learning for Sciences (ML4SCI), an organization dedicated to integrating machine learning methodologies into scientific research.
+
+Through Google Summer of Code, students are given the chance to work on significant projects during their summer break, all while gaining real-world, hands-on experience in software development and becoming familiar with the dynamics of open-source projects. Participating students are paired with a mentor from their project, fostering a learning environment guided by experienced developers.
+
+In this particular project, I focused on the application of Vision Transformers, a type of machine learning methodology, to the field of dark matter morphology. By skillfully combining traditional physics-based characteristics with state-of-the-art machine learning techniques and metaheuristic optimization, a robust model was developed capable of detecting and analyzing dark matter substructures in images. This project highlights the vast potential that interdisciplinary collaboration holds for advancing both scientific and technological domains.
+
+
 # Vision Transformers (ViT) for Dark Matter Morphology
 
 The Transformer design has shown to be very successful for a wide range of NLP applications, leading to its widespread acceptance in the field. In recent years, there has been growing interest in using Transformers for a variety of other applications beyond NLP, including computer vision. At the same time, the use of deep learning techniques in the field of science has become common, with the introduction of Physics-informed neural networks (PINNs). In this context, I use both techniques together, in this project, to find Dark Matter substructures in observations, extracting features of physical meaning from the observations (images) and, then, concatenating them to be process by a Vision Transformer (ViT) neural network.
